@@ -3,7 +3,10 @@
     "rounds": 0
   },
   "henan": {
-    "rounds": 0
+    "rounds": 1,
+    "last_new": 1710,
+    "last_old": 4059,
+    "updated": "2026-09-21 23:20:09"
   },
   "quanguo": {
     "rounds": 0
@@ -33,7 +36,10 @@
     "rounds": 0
   },
   "hainan": {
-    "rounds": 0
+    "rounds": 1,
+    "last_new": 655,
+    "last_old": 964,
+    "updated": "2026-09-21 23:20:09"
   },
   "hebei": {
     "rounds": 0
